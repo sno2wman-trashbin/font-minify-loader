@@ -1,5 +1,9 @@
 # fontmin-loader
 
+[![Build Status](https://travis-ci.org/SnO2WMaN/fontmin-loader.svg?branch=master)](https://travis-ci.org/SnO2WMaN/fontmin-loader)
+[![Dependency Status](https://beta.gemnasium.com/badges/github.com/SnO2WMaN/font-min-loader.svg)](https://beta.gemnasium.com/projects/github.com/SnO2WMaN/font-min-loader)
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+
 Font minify loader for webpack.
 
 **Original Source**
