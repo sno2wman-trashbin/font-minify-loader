@@ -1,0 +1,29 @@
+{
+  "name": "fontmin-loader",
+  "version": "1.0.0",
+  "description": "Font Minify Loader for Webpack",
+  "main": "index.js",
+  "repository": "https://github.com/SnO2WMaN/fontmin-loader",
+  "author": "SnO2WMaN <sno2wman.official@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "webpack --config ./test/webpack.config.js"
+  },
+  "dependencies": {
+    "fontmin": "^0.9.6",
+    "style-loader": "^0.19.1"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "css-loader": "^0.28.9",
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^2.30.1",
+    "loader-utils": "^1.1.0",
+    "url-loader": "^0.6.2",
+    "webpack": "^3.10.0"
+  }
+}
