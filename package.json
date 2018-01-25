@@ -1,5 +1,5 @@
 {
-  "name": "font-min-loader",
+  "name": "font-minify-loader",
   "version": "1.0.0",
   "description": "Font minify loader for webpack.",
   "main": "index.js",
